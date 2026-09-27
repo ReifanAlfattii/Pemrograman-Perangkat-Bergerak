@@ -2,9 +2,8 @@
 
 Aplikasi pemesanan makanan sederhana dengan Kotlin dan Jetpack Compose. Project ini dibuat untuk Tugas 7 Pertemuan 4 (materi Button dan User Interaction), aplikasi nomor 4: Food Ordering.
 
-Nama: (isi nama)  
-NIM: (isi NIM)  
-Kelas: (isi kelas)
+Nama: Reifan Al-fattii Cahyadewa
+NRP: 5053251046
 
 <p>
   <img src="docs/screenshots/01-beranda.png" width="150" alt="Tampilan awal">
